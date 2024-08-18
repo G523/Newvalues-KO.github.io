@@ -1,2 +1,2 @@
 # 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+8values 정치 성향 퀴즈는 개인의 정치적 가치를 측정합니다. 여기에는 평등, 힘, 자유, 전통, 부, 평화, 권위, 진보가 포함됩니다.

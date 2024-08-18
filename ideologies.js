@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "아나르코-공산주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Communalism",
+        "name": "공동체주의",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Soulism",
+        "name": "소울리즘",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcha-Feminism",
+        "name": "아나르카-페미니즘",
         "stats": {
             "econ": 95,
             "dipl": 90,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-       "name": "English Socialism",
+       "name": "영국 사회주의",
        "stats": {
            "econ": 75,
            "dipl": 0,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "트로츠키주의",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Orthodox Marxism",
+        "name": "정통 마르크스주의",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "드레온주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "레닌주의",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxist-Leninism",
+        "name": "마르크스-레닌주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "종교적 공산주의",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Utopian Socialism",
+        "name": "유토피아 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 70,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Juche",
+        "name": "주체사상",
         "stats": {
             "econ": 100,
             "dipl": 10,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "종교적 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "민주 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "혁명적 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "자유 사회주의",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -153,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "아나르코-신디칼리즘",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Bolshevism",
+        "name": "국가 볼셰비즘",
         "stats": {
             "econ": 100,
             "dipl": 10,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressive Distributism",
+        "name": "진보적 분배주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservative Distributism",
+        "name": "보수적 분배주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "사회적 자유주의",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Democracy",
+        "name": "종교 민주주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "사회 민주주의",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Authoritarianism",
+        "name": "사회적 권위주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "아나르코-상호주의",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "세계 전체주의",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "기술관료주의",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "중도주의",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "자유주의",
         "stats": {
             "econ": 45,
             "dipl": 50,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "종교적 아나키즘",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Populism",
+        "name": "국민 포퓰리즘",
         "stats": {
             "econ": 55,
             "dipl": 20,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberal Conservatism",
+        "name": "자유보수주의",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "반동주의",
         "stats": {
             "econ": 10,
             "dipl": 35,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Libertarianism",
+        "name": "사회적 자유지상주의",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -315,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarianism",
+        "name": "자유지상주의",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "아나르코-에고이즘",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Socialism",
+        "name": "국가 사회주의",
         "stats": {
             "econ": 45,
             "dipl": 0,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Avaritionism",
+        "name": "아바리티오니즘",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fascism",
+        "name": "파시즘",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Capitalism",
+        "name": "국가 자본주의",
         "stats": {
             "econ": 5,
             "dipl": 20,
@@ -369,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "보수주의",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "신자유주의",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "고전적 자유주의",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "권위주의적 자본주의",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -405,7 +405,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "신보수주의",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Socialism with Chinese Characteristics",
+        "name": "중국 특색 사회주의",
         "stats": {
             "econ": 60,
             "dipl": 10,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Libertarianism",
+        "name": "우파 자유지상주의",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "시장 아나키즘",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "객관주의",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Corpotocracy",
+        "name": "기업 통치",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Paleolibertarianism",
+        "name": "고립 자유주의",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -468,7 +468,7 @@ ideologies = [
        }
     },
     {
-        "name": "Pink Capitalism",
+        "name": "핑크 자본주의",
         "stats": {
             "econ": 10,
             "dipl": 70,
@@ -477,7 +477,7 @@ ideologies = [
         }
     },
     {
-        "name": "Dark Enlightenment",
+        "name": "다크 계몽주의",
         "stats": {
             "econ": 5,
             "dipl": 50,
@@ -486,7 +486,7 @@ ideologies = [
         }
     },
     {
-        "name": "Pink Capitalism",
+        "name": "핑크 자본주의",
         "stats": {
             "econ": 10,
             "dipl": 70,
@@ -495,7 +495,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fordism",
+        "name": "포디즘",
         "stats": {
             "econ": 5,
             "dipl": 100,
@@ -504,7 +504,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Anarchism",
+        "name": "국가 아나키즘",
         "stats": {
             "econ": 60,
             "dipl": 20,
@@ -513,7 +513,7 @@ ideologies = [
         }
     },
     {
-        "name": "Dengism",
+        "name": "덩샤오핑 사상",
         "stats": {
             "econ": 50,
             "dipl": 30,
@@ -522,7 +522,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Nationalism",
+        "name": "사회적 민족주의",
         "stats": {
             "econ": 60,
             "dipl": 25,
@@ -531,7 +531,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Primitivism",
+        "name": "아나르코-원시주의",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -540,7 +540,7 @@ ideologies = [
         }
     },
     {
-        "name": "Longism",
+        "name": "롱주의",
         "stats": {
             "econ": 60,
             "dipl": 30,
@@ -549,7 +549,7 @@ ideologies = [
         }
     },
     {
-        "name": "Archeofuturism",
+        "name": "고대미래주의",
         "stats": {
             "econ": 50,
             "dipl": 5,
@@ -558,7 +558,7 @@ ideologies = [
         }
     },
     {
-        "name": "Strasserism",
+        "name": "스트라서주의",
         "stats": {
             "econ": 75,
             "dipl": 5,
@@ -567,7 +567,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Liberalism",
+        "name": "국가 자유주의",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -576,7 +576,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Nationalism",
+        "name": "혁명적 민족주의",
         "stats": {
             "econ": 60,
             "dipl": 5,
@@ -585,7 +585,7 @@ ideologies = [
         }
     },
     {
-        "name": "Clerical Fascism",
+        "name": "성직자 파시즘",
         "stats": {
             "econ": 60,
             "dipl": 5,
@@ -594,7 +594,7 @@ ideologies = [
         }
     },
     {
-        "name": "Third International Theory",
+        "name": "제3국제주의 이론",
         "stats": {
             "econ": 70,
             "dipl": 30,
@@ -603,7 +603,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Communism",
+        "name": "국가 공산주의",
         "stats": {
             "econ": 95,
             "dipl": 10,
@@ -612,7 +612,7 @@ ideologies = [
         }
     },
     {
-        "name": "Integralism",
+        "name": "통합주의",
         "stats": {
             "econ": 60,
             "dipl": 20,
@@ -621,7 +621,7 @@ ideologies = [
         }
     },
     {
-        "name": "Korwinism",
+        "name": "코르빈주의",
         "stats": {
             "econ": 0,
             "dipl": 25,
@@ -630,7 +630,7 @@ ideologies = [
         }
     },
     {
-        "name": "Tribal Primitivism",
+        "name": "부족 원시주의",
         "stats": {
             "econ": 50,
             "dipl": 0,
@@ -639,7 +639,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Internationalism",
+        "name": "종교적 국제주의",
         "stats": {
             "econ": 50,
             "dipl": 100,
@@ -648,7 +648,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Nihilism",
+        "name": "아나르코-허무주의",
         "stats": {
             "econ": 70,
             "dipl": 100,
@@ -657,7 +657,7 @@ ideologies = [
         }
     },
     {
-        "name": "Titoism",
+        "name": "티토주의",
         "stats": {
             "econ": 70,
             "dipl": 20,
@@ -666,7 +666,7 @@ ideologies = [
         }
     },
     {
-        "name": "Minarcho-Titoism",
+        "name": "미나르코-티토주의",
         "stats": {
             "econ": 70,
             "dipl": 40,
@@ -675,7 +675,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ultra-Capitalism",
+        "name": "극단적 자본주의",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -684,7 +684,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "아나르코-자본주의",
         "stats": {
             "econ": 0,
             "dipl": 50,
